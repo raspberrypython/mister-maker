@@ -8,6 +8,7 @@ RUN apt-get install -yq wget \
                         curl \
                         vim \
                         git \
+                        tmux \
                         build-essential \
                         autoconf \
                         automake \
